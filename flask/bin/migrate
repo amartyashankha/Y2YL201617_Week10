@@ -1,0 +1,10 @@
+#!/home/shankha/MEET/YL2/Y2YL201617_Week10/flask/bin/python3
+# PBR Generated from 'console_scripts'
+
+import sys
+
+from migrate.versioning.shell import main
+
+
+if __name__ == "__main__":
+    sys.exit(main())
